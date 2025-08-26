@@ -1,5 +1,5 @@
-<h1 align="center">Hi I am a Flutter Developer with experience writing clean, scalable code. I put much care in designing clear and user-friendly interfaces Esraa Mohamed</h1>
-<h3 align="center">Flutter & Dart Developer | Clean Code & Creative UI</h3>
+<h1 align="center">Hi 👋, I'm Esraa</h1>
+<h3 align="center">Flutter Developer | Clean Code & Creative UI</h3>
 
 - 🔭 I’m currently working on [Plateful App](https://github.com/esraasera/plateful_app)
 
